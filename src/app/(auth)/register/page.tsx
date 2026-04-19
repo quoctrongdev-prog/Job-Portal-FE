@@ -67,7 +67,7 @@ const RegisterPage = () => {
         //hết hạn sau 15 ngày
         expires: 15,
         //Cookie chỉ gửi qua HTTPS Tăng bảo mật
-        secure: true,
+        secure: false,
         //Cookie có hiệu lực trên toàn bộ website
         path: "/",
       });

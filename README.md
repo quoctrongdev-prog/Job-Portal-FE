@@ -41,7 +41,7 @@ https://github.com/quoctrongdev-prog/Job-Portal-BE
 
 ## Setup Locally
 
-### 1. Clone repository
+### Clone repository
 ```bash
 git clone https://github.com/quoctrongdev-prog/Job-Portal-FE
 cd frontend

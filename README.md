@@ -51,7 +51,7 @@ cd frontend
 npm install
 
 ## Run application
-npm run dev
+### npm run dev
 App runs at: http://localhost:3000
 
 ## Notes

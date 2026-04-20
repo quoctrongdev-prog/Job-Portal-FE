@@ -48,10 +48,13 @@ cd frontend
 ```
 
 ## Install dependencies
+```bash
 npm install
-
+```
 ## Run application
-### npm run dev
+```bash
+ npm run dev
+```
 App runs at: http://localhost:3000
 
 ## Notes
@@ -59,6 +62,6 @@ Backend must be running for full functionality
 Designed to work with event-driven backend (Kafka-based)
 
 # Author
-Vũ Quốc Trọng
+Vũ Quốc Trọng <br>
 GitHub: https://github.com/quoctrongdev-prog
 

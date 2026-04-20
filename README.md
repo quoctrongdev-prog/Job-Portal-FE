@@ -45,3 +45,20 @@ https://github.com/quoctrongdev-prog/Job-Portal-BE
 ```bash
 git clone https://github.com/quoctrongdev-prog/Job-Portal-FE
 cd frontend
+```
+
+## Install dependencies
+npm install
+
+## Run application
+npm run dev
+App runs at: http://localhost:3000
+
+## Notes
+Backend must be running for full functionality
+Designed to work with event-driven backend (Kafka-based)
+
+# Author
+Vu Quoc Trong
+GitHub: https://github.com/quoctrongdev-prog
+

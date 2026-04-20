@@ -59,6 +59,6 @@ Backend must be running for full functionality
 Designed to work with event-driven backend (Kafka-based)
 
 # Author
-Vu Quoc Trong
+Vũ Quốc Trọng
 GitHub: https://github.com/quoctrongdev-prog
 
